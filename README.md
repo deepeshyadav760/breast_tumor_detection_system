@@ -35,7 +35,7 @@ Running the Application
 Clone the repository to your local system:
 bash
 Copy code
-git clone https://github.com/yourusername/tumor-detection-mri.git
+git clone https://github.com/deepeshyadav760/tumor-detection-mri.git
 
 Navigate to the project directory:
 bash
