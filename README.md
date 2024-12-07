@@ -7,8 +7,8 @@ This project focuses on detecting and classifying tumors in MRI images into thre
 The project uses a Convolutional Neural Network (CNN) for image classification and incorporates a Tkinter-based User Interface for ease of use.
 Features
 Deep Learning Model:
-   1.Custom CNN architecture for MRI image classification.
-   2.Trained to identify tumor stages with high accuracy.
+ 1.Custom CNN architecture for MRI image classification.
+ 2.Trained to identify tumor stages with high accuracy.
 
 Preprocessing Pipeline:
    1.Resizing, normalization, and augmentation of input MRI images.
